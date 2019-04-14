@@ -1,6 +1,6 @@
 # kotlin-design-pattern
 
-本記事は[Java言語で学ぶデザインパターン入門](http://www.hyuki.com/dp/)を参考にしながら  
+[Java言語で学ぶデザインパターン入門](http://www.hyuki.com/dp/)を参考にしながら  
 JavaではなくKotlinで実装してみた成果物を格納するリポジトリです。
 
 | No | Title | Qiita |
